@@ -1,0 +1,88 @@
+header
+{
+	background-image: url("bando.jpg");
+	background-attachment: fixed ;
+	font-size: 2.0em;
+}
+
+
+
+body
+{
+	background-color: black;
+	
+}
+
+p
+{
+	color:white;
+	padding: 10px;
+	margin-left: 12px;
+}
+h1
+{
+	color:white;
+	font-size:3.0em
+
+}
+h2
+{
+	color:white;
+}
+h3
+{
+	color:white;
+}
+
+
+.Chateaux
+{
+	float: left;
+}
+
+.Vice_City
+{
+	float: right;
+}
+
+.PS1
+{
+	float: left;
+
+}
+
+a:visited
+{
+	color: red; 
+}
+article
+{
+	width: 1000px;
+	border: 60px solid black;
+	
+}
+
+.italian_job
+{
+	float: right;
+}
+
+.Vice
+{
+	float: left;
+}
+
+.big_red_one
+{
+	float: right;
+}
+
+.gta_vi
+{
+	float: left;
+}
+
+.Resident_Evil
+{
+	float: right;
+}
